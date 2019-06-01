@@ -41,7 +41,7 @@ routing
 | ``192.168.0.128/27`` |  | enp0s9 |
 | ``192.168.0.192/27`` |  | enp0s10 |
 | ``PC2``     |  | |
-| ``default`` | 192.168.100.1 | enp0s3 ``ip route add default via 192.168.100.1`` |
+| ``default`` | 192.168.0.129 | enp0s3 ``ip route add default via 192.168.0.129`` |
 
 Zadanie
 ------------
